@@ -3,4 +3,4 @@ Repository for the Kalman Filter Course from thinkautonomous.ai https://www.thin
 
 ### Result
 
-![result video](./images/bivyvle_tracking_with_id.gif)
+![result_video](./images/bicycle_tracking_with_id.gif)
